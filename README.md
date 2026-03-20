@@ -1,4 +1,4 @@
-HelloWorld2. Python tutorials. Console Application. Simple Input/Output. 
+HelloWorld2. Python tutorials. Console Application. Simple Input/Output.
 A console application in the Python programming language. 
 The program does the following:
   1. Prompts input a name.
